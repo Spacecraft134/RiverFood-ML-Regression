@@ -1,0 +1,38 @@
+Zip
+Quarter
+DayOfWeek
+Season
+Proximity to Holiday
+Type_Donation
+Type_Recurring Donation Payment
+Type_Recurring Donation Schedule
+Type_Soft Credit
+Fund_Cap Camp Unrestricted
+Fund_Programs/Operations
+Fund_Unrestricted
+Campaign_2023 Full Summer for All
+Campaign_2023 Giving Tuesday
+Campaign_2023 HOPE
+Campaign_2023 ReMitts
+Campaign_2023 Sips & Slices
+Campaign_2023 Year-End
+Campaign_2023-2024 Recipe for Hope
+Campaign_2024 Match Madness
+Campaign_2024 ReMitts
+Campaign_2024 Sips & Slices
+Campaign_In-Kind
+Campaign_Match Madness 2023
+Campaign_Support The River
+Appeal_Business Mailing
+Appeal_Business Multi Channel
+Appeal_Business Online
+Appeal_Faith Comm Multi Channel
+Appeal_Faith Comm Online
+Appeal_Foundation Multi Channel
+Appeal_Foundation Online
+Appeal_Individual Event
+Appeal_Individual Mailing
+Appeal_Individual Multi Channel
+Appeal_Individual Online
+Appeal_Individual Payroll
+Appeal_Service Org Event
