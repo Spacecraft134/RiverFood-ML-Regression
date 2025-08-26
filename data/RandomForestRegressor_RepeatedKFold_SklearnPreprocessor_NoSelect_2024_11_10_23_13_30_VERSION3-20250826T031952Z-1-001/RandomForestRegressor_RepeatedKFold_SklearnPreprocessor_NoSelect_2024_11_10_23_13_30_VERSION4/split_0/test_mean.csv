@@ -1,0 +1,5 @@
+Metric,Real_score,Fake_score
+r2_score,0.1344087302910305,0.0
+mean_absolute_error,24.85896154342496,29.84493357128693
+root_mean_squared_error,35.28365465865393,37.92426119103855
+rmse_over_stdev,0.9303715761506095,1.0
